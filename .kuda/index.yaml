@@ -1,0 +1,19 @@
+name: lib-hello
+root: /home/luis/GitHub/handl-lang/lib-hello
+purpose: ''
+modules:
+- handl-lib-hello
+- lib-hello
+commands:
+- cargo check
+- cargo test --workspace
+provenance:
+  files:
+  - Cargo.toml
+  - src/lib.rs
+  hashes:
+  - a3ab2077d12ab45f69d5aa57ac2ff1f168305feb
+  - 9dda746d013a44fd9a5d1ee7ea8e2a906fe4dc7f
+  commit_sha: 7fff2be138e85880954cacc9619c9e7e112ab42c
+  generated_at: '1792281224'
+  generator: kuda/0.1.0
