@@ -13,3 +13,7 @@ src/lib.rs      `GREET_HNL` (bare) + `HELLO_HNL` (module record)
 pkg.hnl         { modules: ["hello"] }
 ci.sh           bupha entry
 ```
+
+## License
+
+MIT.
