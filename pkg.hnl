@@ -1,1 +1,1 @@
-{ modules: ["hello"] }
+{ modules: ["hello"], description: "Handl stdlib port: the greet arrow.", license: "MIT" }
