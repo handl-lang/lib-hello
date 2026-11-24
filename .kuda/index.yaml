@@ -1,19 +1,14 @@
 name: lib-hello
 root: /home/luis/GitHub/handl-lang/lib-hello
-purpose: ''
-modules:
-- handl-lib-hello
-- lib-hello
-commands:
-- cargo check
-- cargo test --workspace
+purpose: '`hello` — Handl stdlib port: the `greet` arrow.'
+modules: []
+commands: []
+tree_digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
 provenance:
   files:
-  - Cargo.toml
-  - src/lib.rs
+  - README.md
   hashes:
-  - a3ab2077d12ab45f69d5aa57ac2ff1f168305feb
-  - 9dda746d013a44fd9a5d1ee7ea8e2a906fe4dc7f
-  commit_sha: 7fff2be138e85880954cacc9619c9e7e112ab42c
-  generated_at: '1792281224'
+  - 5218093d696c692f87bfb2cac7e2da2b6946e113
+  commit_sha: a836c7ef3b5bd7693b9cf30f63ef30bb67b72fbb
+  generated_at: '1795484421'
   generator: kuda/0.1.0
