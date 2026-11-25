@@ -20,7 +20,7 @@ will be deleted together with those patch entries.
 src/index.hnl   the arrow (pure handl)
 src/lib.rs      const shim — pending patch sweep (see above)
 pkg.hnl         package manifest — modules, deps, description, license
-ci.sh           bupha entry
+workflows/gate.yaml           bupha entry (handl-gates)
 ```
 
 ## Gate
